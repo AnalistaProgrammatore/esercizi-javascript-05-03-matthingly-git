@@ -1,4 +1,3 @@
-
 function student () {
   this.grades = []
   this.addGrade = addGrade
